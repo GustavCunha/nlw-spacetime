@@ -30,7 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Na trilha Ignite vamos desenvolver uma aplicação full-stack, do back-end ao mobile, que funcionará como uma cápsula do tempo guardando memórias passadas numa timeline. Vamos utilizar React, Tailwind, Node, Fastify, TypeScript, Expo, Next.js e muito mais!
+Cápsula do tempo é uma aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
+
+Layout do projeto desenvolvido na Trilha Ignite do NLW Spacetime.
+
+- [Layout](https://www.figma.com/community/file/1240070456276424762)
 
 ## 📜 Sobre
 
